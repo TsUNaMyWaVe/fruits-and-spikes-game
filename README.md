@@ -9,3 +9,4 @@ A short, arcade game that requires you to pay close attention to the level in or
 
 ## Plyable Build
 Can be downloaded from [here](https://drive.google.com/file/d/1OuGYrON4nBQUzCtsaKDzgQ0qdXII8bWL/view).
+The build is for Windows OS.
